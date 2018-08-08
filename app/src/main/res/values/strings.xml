@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top 10 Downloader</string>
+    <string name="paid_apps">Top %d Paid Apps</string>
+    <string name="free_apps">Top %d Free Apps</string>
+    <string name="movies">Top %d Movies</string>
+    <string name="tvs">Top %d TV Seasons</string>
+    <string name="albums">Top %d Albums</string>
+    <string name="songs">Top %d Songs</string>
+    <string name="free_apps_10">Top 10 Free Apps</string>
+</resources>
